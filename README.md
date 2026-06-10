@@ -1,2 +1,2 @@
-# about-this
-A short description about this site.
+# about-me
+The source for my test site.
